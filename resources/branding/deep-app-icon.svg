@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="deepIconGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#78f6dc"/>
+      <stop offset="0.58" stop-color="#42d8c3"/>
+      <stop offset="1" stop-color="#28afc4"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="3" width="58" height="58" rx="14" fill="#0d1724" stroke="#2c5262" stroke-width="2"/>
+  <path fill="url(#deepIconGradient)" fill-rule="evenodd"
+        d="M14 12h22l14 12v16L36 52H14zm11 11v18h8l6-5v-8l-6-5z"/>
+  <path d="M17 16h18" stroke="#a4ffec" stroke-width="1.5" stroke-linecap="round" opacity=".62"/>
+  <circle cx="50" cy="13" r="3" fill="#8affea"/>
+</svg>

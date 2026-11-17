@@ -1,0 +1,20 @@
+/build/
+/out/
+
+# 开发过程文档与截图仅在本地保留。
+/docs/
+
+*.user*
+CMakeUserPresets.json
+
+# 本机设置、运行记录和临时文件不纳入源码仓库。
+/records/
+*.log
+*.tmp
+*.bak
+.env
+.env.*
+!.env.example
+/.vs/
+/.vscode/
+/.idea/
